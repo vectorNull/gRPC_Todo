@@ -475,3 +475,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+ToDoDatabase.db-wal
+ToDoDatabase.db-shm
